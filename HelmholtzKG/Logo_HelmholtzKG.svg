@@ -7,7 +7,7 @@
    viewBox="0 0 113.13774 73.784735"
    version="1.1"
    id="svg5"
-   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   inkscape:version="1.4.1 (1:1.4.1+202503302257+93de688d07)"
    sodipodi:docname="Logo_HelmholtzKG.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,15 +24,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.3360776"
-     inkscape:cx="2.9755033"
-     inkscape:cy="672.46375"
-     inkscape:window-width="1860"
-     inkscape:window-height="1016"
-     inkscape:window-x="60"
-     inkscape:window-y="27"
+     inkscape:zoom="7.604568"
+     inkscape:cx="348.27751"
+     inkscape:cy="271.35006"
+     inkscape:window-width="2512"
+     inkscape:window-height="1376"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g2959"
+     inkscape:current-layer="g579"
      showguides="true">
     <sodipodi:guide
        position="-62.009586,-274.10876"
@@ -65,7 +65,7 @@
        inverse="true"
        flatten="false"
        hide_clip="false"
-       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+       message="" />
     <inkscape:path-effect
        effect="powerclip"
        id="path-effect3023"
@@ -74,7 +74,7 @@
        inverse="true"
        flatten="false"
        hide_clip="false"
-       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+       message="" />
     <marker
        style="overflow:visible"
        id="TriangleOutS"
@@ -156,28 +156,18 @@
           <g
              id="g539"
              transform="translate(0,6.0923667e-4)">
-            <text
-               xml:space="preserve"
-               style="font-size:7.3597px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#142864;fill-opacity:1;stroke-width:0.183993"
-               x="131.44063"
-               y="87.205482"
-               id="text533"><tspan
-                 sodipodi:role="line"
-                 id="tspan531"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.3597px;font-family:Hermann;-inkscape-font-specification:'Hermann, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#142864;fill-opacity:1;stroke-width:0.183993"
-                 x="131.44063"
-                 y="87.205482">KG</tspan></text>
-            <text
-               xml:space="preserve"
-               style="font-size:7.3597px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#145aa0;fill-opacity:1;stroke-width:0.183993"
-               x="92.282822"
-               y="87.205482"
-               id="text537"><tspan
-                 sodipodi:role="line"
-                 id="tspan535"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.3597px;font-family:Hermann;-inkscape-font-specification:'Hermann, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#145aa0;fill-opacity:1;stroke-width:0.183993"
-                 x="92.282822"
-                 y="87.205482">HELMHOLTZ</tspan></text>
+            <path
+               style="font-weight:bold;font-size:7.3597px;line-height:1.25;font-family:Hermann;-inkscape-font-specification:'Hermann, Bold';word-spacing:0px;fill:#142864;stroke-width:0.183993"
+               d="m 136.0478,87.205482 h -1.28795 l -1.87672,-2.333024 v 2.333024 h -1.00092 v -5.218027 h 1.00092 v 2.20055 l 1.64121,-2.038637 c 0.081,-0.103035 0.19871,-0.161913 0.32383,-0.161913 h 1.08923 l -2.04599,2.539097 z m 2.53909,-2.965959 v 1.00092 h 1.0598 v 0.551977 c 0,0.04416 -0.0147,0.08832 -0.0442,0.117755 l -0.32383,0.323827 c -0.0294,0.02944 -0.0736,0.04416 -0.11775,0.04416 h -1.10396 c -0.0442,0 -0.0883,-0.01472 -0.11775,-0.04416 l -0.32383,-0.323827 c -0.0294,-0.02944 -0.0442,-0.0736 -0.0442,-0.117755 v -2.384543 c 0,-0.04416 0.0147,-0.08096 0.0442,-0.117755 l 0.32383,-0.316467 c 0.0294,-0.0368 0.0736,-0.05152 0.11775,-0.05152 h 1.10396 c 0.0442,0 0.0883,0.02208 0.11775,0.05152 l 0.44894,0.441582 0.70654,-0.706531 -0.54462,-0.537258 c -0.15456,-0.161914 -0.36799,-0.25023 -0.58878,-0.25023 h -1.38362 c -0.22079,0 -0.43422,0.08832 -0.58878,0.24287 l -0.51518,0.515179 c -0.16191,0.161913 -0.24287,0.367985 -0.24287,0.596136 v 2.656851 c 0,0.220791 0.081,0.434223 0.24287,0.588776 l 0.51518,0.515179 c 0.15456,0.161914 0.36799,0.24287 0.58878,0.24287 h 1.38362 c 0.22079,0 0.43422,-0.08096 0.58878,-0.24287 l 0.51518,-0.515179 c 0.15455,-0.154553 0.24287,-0.367985 0.24287,-0.588776 v -1.692731 z"
+               id="text533"
+               aria-label="KG"
+               sodipodi:nodetypes="cccccccccsccccccsccssccssccssccccsscsssccsscsscc" />
+            <path
+               style="font-weight:bold;font-size:7.3597px;line-height:1.25;font-family:Hermann;-inkscape-font-specification:'Hermann, Bold';word-spacing:0px;fill:#145aa0;stroke-width:0.183993"
+               d="m 95.51373,84.099689 v -2.112234 h 1.000919 v 5.218027 H 95.51373 v -2.104874 h -1.788407 v 2.104874 h -1.000919 v -5.218027 h 1.000919 v 2.112234 z m 2.907071,-1.103955 v 1.103955 h 1.906159 v 1.000919 h -1.906159 v 1.103955 h 2.281509 v 1.000919 h -2.796688 c -0.04416,0 -0.08832,-0.01472 -0.117755,-0.04416 L 97.46404,86.837497 c -0.02944,-0.02944 -0.04416,-0.0736 -0.04416,-0.117755 v -4.239187 c 0,-0.04416 0.01472,-0.08096 0.04416,-0.117755 l 0.323827,-0.323827 c 0.02944,-0.02944 0.0736,-0.04416 0.117755,-0.04416 h 2.796688 v 1.000919 z m 4.172949,3.208829 v -4.209748 h -1.00092 v 4.724927 c 0,0.04416 0.0147,0.08832 0.0442,0.117755 l 0.32382,0.323827 c 0.0294,0.02944 0.0736,0.04416 0.11776,0.04416 h 2.52438 v -1.000919 z m 6.14533,-4.209748 -1.21435,2.546456 -1.21435,-2.546456 h -1.00092 v 5.210667 h 1.00092 V 84.32048 l 0.69917,1.4793 c 0.0221,0.04416 0.0662,0.0736 0.11775,0.0736 h 0.78749 c 0.0515,0 0.0957,-0.02944 0.11776,-0.0736 l 0.70653,-1.4793 v 2.885002 H 109.74 v -5.210667 z m 4.8574,2.104874 v -2.112234 h 1.00092 v 5.218027 h -1.00092 v -2.104874 h -1.78841 v 2.104874 h -1.00092 v -5.218027 h 1.00092 v 2.112234 z m 4.50412,-2.119594 h -1.17019 c -0.22079,0 -0.43422,0.08832 -0.59614,0.25023 l -0.51517,0.515179 c -0.15456,0.154554 -0.24287,0.367985 -0.24287,0.588776 v 2.517018 c 0,0.220791 0.0883,0.434222 0.24287,0.588776 l 0.51517,0.522538 c 0.15456,0.161914 0.37535,0.24287 0.59614,0.24287 h 1.17019 c 0.22079,0 0.43423,-0.08832 0.58878,-0.24287 l 0.52254,-0.522538 c 0.15455,-0.154554 0.24287,-0.367985 0.24287,-0.588776 V 83.33428 c 0,-0.220791 -0.0883,-0.434222 -0.24287,-0.588776 l -0.52254,-0.515179 c -0.16191,-0.154554 -0.36799,-0.25023 -0.58878,-0.25023 z m 0.30175,3.856483 -0.31647,0.316467 c -0.0368,0.0368 -0.081,0.05152 -0.12511,0.05152 h -0.89788 c -0.0442,0 -0.081,-0.01472 -0.11776,-0.05152 l -0.31647,-0.316467 c -0.0368,-0.0368 -0.0515,-0.0736 -0.0515,-0.117755 v -2.244709 c 0,-0.04416 0.0147,-0.08832 0.0515,-0.117755 l 0.31647,-0.323827 c 0.0368,-0.02944 0.0736,-0.05152 0.11776,-0.05152 h 0.89788 c 0.0442,0 0.0883,0.02208 0.12511,0.05152 l 0.31647,0.323827 c 0.0221,0.0368 0.0515,0.0736 0.0515,0.117755 v 2.244709 c 0,0.04416 -0.0221,0.08096 -0.0515,0.117755 z m 3.01012,0.367985 v -4.209748 h -1.00092 v 4.724927 c 0,0.04416 0.0147,0.08832 0.0442,0.117755 l 0.32382,0.323827 c 0.0294,0.02944 0.0736,0.04416 0.11776,0.04416 h 2.52437 v -1.000919 z m 1.75895,-3.216189 v -1.000919 h 3.62097 v 1.000919 h -1.31002 v 4.217108 h -1.00092 v -4.217108 z m 4.36429,-0.993559 v 1.000919 h 2.14167 l -2.16375,3.414901 v 0.309107 c 0,0.04416 0.0221,0.08832 0.0515,0.117755 l 0.32382,0.323827 c 0.0294,0.02944 0.0736,0.04416 0.11776,0.04416 h 3.01748 V 86.204565 H 128.831 l 2.19319,-3.466419 v -0.257589 c 0,-0.04416 -0.0221,-0.08096 -0.0515,-0.117755 l -0.32383,-0.323827 c -0.0294,-0.02944 -0.0736,-0.04416 -0.11775,-0.04416 z"
+               id="text537"
+               aria-label="HELMHOLTZ"
+               sodipodi:nodetypes="cccccccccccccccccccccscssscssccccccsccscccccccccccsscccccccccccccccccccssccssccssssssccscssscsssccssccssccccsccsccccccccccccccccsccsccccsccsc" />
           </g>
         </g>
       </g>
@@ -357,28 +347,16 @@
         <g
            id="g579"
            transform="translate(0,6.0923667e-4)">
-          <text
-             xml:space="preserve"
-             style="font-size:7.3597px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#14c8ff;fill-opacity:1;stroke-width:0.183993"
-             x="131.44063"
-             y="87.205482"
-             id="text573"><tspan
-               sodipodi:role="line"
-               id="tspan571"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.3597px;font-family:Hermann;-inkscape-font-specification:'Hermann, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#14c8ff;fill-opacity:1;stroke-width:0.183993"
-               x="131.44063"
-               y="87.205482">KG</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:7.3597px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.183993"
-             x="92.282822"
-             y="87.205482"
-             id="text577"><tspan
-               sodipodi:role="line"
-               id="tspan575"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.3597px;font-family:Hermann;-inkscape-font-specification:'Hermann, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.183993"
-               x="92.282822"
-               y="87.205482">HELMHOLTZ</tspan></text>
+          <path
+             style="font-weight:bold;font-size:7.3597px;line-height:1.25;font-family:Hermann;-inkscape-font-specification:'Hermann, Bold';word-spacing:0px;fill:#14c8ff;stroke-width:0.183993"
+             d="m 136.0478,87.205482 h -1.28795 l -1.87672,-2.333024 v 2.333024 h -1.00092 v -5.218027 h 1.00092 v 2.20055 l 1.64121,-2.038637 c 0.081,-0.103035 0.19871,-0.161913 0.32383,-0.161913 h 1.08923 l -2.04599,2.539097 z m 2.53909,-2.965959 v 1.00092 h 1.0598 v 0.551977 c 0,0.04416 -0.0147,0.08832 -0.0442,0.117755 l -0.32383,0.323827 c -0.0294,0.02944 -0.0736,0.04416 -0.11775,0.04416 h -1.10396 c -0.0442,0 -0.0883,-0.01472 -0.11775,-0.04416 l -0.32383,-0.323827 c -0.0294,-0.02944 -0.0442,-0.0736 -0.0442,-0.117755 v -2.384543 c 0,-0.04416 0.0147,-0.08096 0.0442,-0.117755 l 0.32383,-0.316467 c 0.0294,-0.0368 0.0736,-0.05152 0.11775,-0.05152 h 1.10396 c 0.0442,0 0.0883,0.02208 0.11775,0.05152 l 0.44894,0.441582 0.70654,-0.706531 -0.54462,-0.537258 c -0.15456,-0.161914 -0.36799,-0.25023 -0.58878,-0.25023 h -1.38362 c -0.22079,0 -0.43422,0.08832 -0.58878,0.24287 l -0.51518,0.515179 c -0.16191,0.161913 -0.24287,0.367985 -0.24287,0.596136 v 2.656851 c 0,0.220791 0.081,0.434223 0.24287,0.588776 l 0.51518,0.515179 c 0.15456,0.161914 0.36799,0.24287 0.58878,0.24287 h 1.38362 c 0.22079,0 0.43422,-0.08096 0.58878,-0.24287 l 0.51518,-0.515179 c 0.15455,-0.154553 0.24287,-0.367985 0.24287,-0.588776 v -1.692731 z"
+             id="text573"
+             aria-label="KG" />
+          <path
+             style="font-weight:bold;font-size:7.3597px;line-height:1.25;font-family:Hermann;-inkscape-font-specification:'Hermann, Bold';word-spacing:0px;fill:#ffffff;stroke-width:0.183993"
+             d="m 95.51373,84.099689 v -2.112234 h 1.000919 v 5.218027 H 95.51373 v -2.104874 h -1.788407 v 2.104874 h -1.000919 v -5.218027 h 1.000919 v 2.112234 z m 2.907071,-1.103955 v 1.103955 h 1.906159 v 1.000919 h -1.906159 v 1.103955 h 2.281509 v 1.000919 h -2.796688 c -0.04416,0 -0.08832,-0.01472 -0.117755,-0.04416 L 97.46404,86.837497 c -0.02944,-0.02944 -0.04416,-0.0736 -0.04416,-0.117755 v -4.239187 c 0,-0.04416 0.01472,-0.08096 0.04416,-0.117755 l 0.323827,-0.323827 c 0.02944,-0.02944 0.0736,-0.04416 0.117755,-0.04416 h 2.796688 v 1.000919 z m 4.172949,3.208829 v -4.209748 h -1.00092 v 4.724927 c 0,0.04416 0.0147,0.08832 0.0442,0.117755 l 0.32382,0.323827 c 0.0294,0.02944 0.0736,0.04416 0.11776,0.04416 h 2.52438 v -1.000919 z m 6.14533,-4.209748 -1.21435,2.546456 -1.21435,-2.546456 h -1.00092 v 5.210667 h 1.00092 V 84.32048 l 0.69917,1.4793 c 0.0221,0.04416 0.0662,0.0736 0.11775,0.0736 h 0.78749 c 0.0515,0 0.0957,-0.02944 0.11776,-0.0736 l 0.70653,-1.4793 v 2.885002 H 109.74 v -5.210667 z m 4.8574,2.104874 v -2.112234 h 1.00092 v 5.218027 h -1.00092 v -2.104874 h -1.78841 v 2.104874 h -1.00092 v -5.218027 h 1.00092 v 2.112234 z m 4.50412,-2.119594 h -1.17019 c -0.22079,0 -0.43422,0.08832 -0.59614,0.25023 l -0.51517,0.515179 c -0.15456,0.154554 -0.24287,0.367985 -0.24287,0.588776 v 2.517018 c 0,0.220791 0.0883,0.434222 0.24287,0.588776 l 0.51517,0.522538 c 0.15456,0.161914 0.37535,0.24287 0.59614,0.24287 h 1.17019 c 0.22079,0 0.43423,-0.08832 0.58878,-0.24287 l 0.52254,-0.522538 c 0.15455,-0.154554 0.24287,-0.367985 0.24287,-0.588776 V 83.33428 c 0,-0.220791 -0.0883,-0.434222 -0.24287,-0.588776 l -0.52254,-0.515179 c -0.16191,-0.154554 -0.36799,-0.25023 -0.58878,-0.25023 z m 0.30175,3.856483 -0.31647,0.316467 c -0.0368,0.0368 -0.081,0.05152 -0.12511,0.05152 h -0.89788 c -0.0442,0 -0.081,-0.01472 -0.11776,-0.05152 l -0.31647,-0.316467 c -0.0368,-0.0368 -0.0515,-0.0736 -0.0515,-0.117755 v -2.244709 c 0,-0.04416 0.0147,-0.08832 0.0515,-0.117755 l 0.31647,-0.323827 c 0.0368,-0.02944 0.0736,-0.05152 0.11776,-0.05152 h 0.89788 c 0.0442,0 0.0883,0.02208 0.12511,0.05152 l 0.31647,0.323827 c 0.0221,0.0368 0.0515,0.0736 0.0515,0.117755 v 2.244709 c 0,0.04416 -0.0221,0.08096 -0.0515,0.117755 z m 3.01012,0.367985 v -4.209748 h -1.00092 v 4.724927 c 0,0.04416 0.0147,0.08832 0.0442,0.117755 l 0.32382,0.323827 c 0.0294,0.02944 0.0736,0.04416 0.11776,0.04416 h 2.52437 v -1.000919 z m 1.75895,-3.216189 v -1.000919 h 3.62097 v 1.000919 h -1.31002 v 4.217108 h -1.00092 v -4.217108 z m 4.36429,-0.993559 v 1.000919 h 2.14167 l -2.16375,3.414901 v 0.309107 c 0,0.04416 0.0221,0.08832 0.0515,0.117755 l 0.32382,0.323827 c 0.0294,0.02944 0.0736,0.04416 0.11776,0.04416 h 3.01748 v -1.000919 h -2.19319 l 2.19319,-3.466419 v -0.257589 c 0,-0.04416 -0.0221,-0.08096 -0.0515,-0.117755 l -0.32383,-0.323827 c -0.0294,-0.02944 -0.0736,-0.04416 -0.11775,-0.04416 z"
+             id="text577"
+             aria-label="HELMHOLTZ" />
         </g>
       </g>
       <g
