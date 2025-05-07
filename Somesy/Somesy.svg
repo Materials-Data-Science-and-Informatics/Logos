@@ -7,7 +7,7 @@
    viewBox="0 0 139.30423 20.465693"
    version="1.1"
    id="svg1208"
-   inkscape:version="1.2.2 (1:1.2.2+202305151915+b0a8486541)"
+   inkscape:version="1.4.1 (1:1.4.1+202503302257+93de688d07)"
    sodipodi:docname="Somesy.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,14 +27,14 @@
      inkscape:guide-bbox="true"
      inkscape:lockguides="false"
      inkscape:zoom="1.4142136"
-     inkscape:cx="106.77312"
-     inkscape:cy="-32.173358"
-     inkscape:window-width="2500"
-     inkscape:window-height="1376"
-     inkscape:window-x="2620"
-     inkscape:window-y="27"
+     inkscape:cx="107.12667"
+     inkscape:cy="-31.819804"
+     inkscape:window-width="2512"
+     inkscape:window-height="1403"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g941"
+     inkscape:current-layer="layer1"
      inkscape:showpageshadow="2"
      inkscape:deskcolor="#d1d1d1">
     <sodipodi:guide
@@ -78,34 +78,16 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-31.531672,-206.72806)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1025px;line-height:1.25;font-family:Hermann;-inkscape-font-specification:'Hermann, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#14c8ff;fill-opacity:1;stroke:none;stroke-width:0.249064"
-       x="77.227486"
-       y="224.54897"
+    <path
+       style="font-size:14.1111px;line-height:1.25;font-family:Hermann;-inkscape-font-specification:'Hermann, Normal';fill:#14c8ff;stroke-width:0.249064"
+       d="m 84.649924,214.55831 -2.328331,4.88244 -2.328332,-4.88244 h -1.919109 v 9.99066 h 1.919109 v -5.53156 l 1.340555,2.83634 c 0.04233,0.0847 0.127,0.14111 0.225777,0.14111 h 1.509888 c 0.09878,0 0.183444,-0.0564 0.225778,-0.14111 l 1.354665,-2.83634 v 5.53156 h 1.91911 v -9.99066 z m 5.884325,1.91911 v 2.11666 h 3.654775 v 1.91911 h -3.654775 v 2.11667 h 4.374441 v 1.91911 h -5.362218 c -0.08467,0 -0.169333,-0.0282 -0.225777,-0.0847 l -0.620889,-0.62089 c -0.05644,-0.0564 -0.08467,-0.14111 -0.08467,-0.22578 v -8.12799 c 0,-0.0847 0.02822,-0.15522 0.08467,-0.22578 l 0.620889,-0.62089 c 0.05644,-0.0564 0.141111,-0.0847 0.225777,-0.0847 h 5.362218 v 1.91911 z"
        id="text52559-6-0-1-7-0-1-9-5-3-0-2-1-8-4"
-       inkscape:export-filename="Somesy_Logo_Text.png"
-       inkscape:export-xdpi="263.92001"
-       inkscape:export-ydpi="263.92001"><tspan
-         sodipodi:role="line"
-         id="tspan52557-2-8-9-7-9-9-7-4-9-7-7-9-0-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Hermann;-inkscape-font-specification:'Hermann, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#14c8ff;fill-opacity:1;stroke-width:0.249064"
-         x="77.227486"
-         y="224.54897">Me</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1025px;line-height:1.25;font-family:Hermann;-inkscape-font-specification:'Hermann, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#002864;fill-opacity:1;stroke:none;stroke-width:0.249064"
-       x="58.213379"
-       y="224.54897"
+       aria-label="Me" />
+    <path
+       style="font-size:14.1111px;line-height:1.25;font-family:Hermann;-inkscape-font-specification:'Hermann, Normal';fill:#002864;stroke-width:0.249064"
+       d="m 64.408152,224.56308 h -2.82222 c -0.423333,0 -0.818444,-0.16934 -1.128888,-0.47978 l -1.128888,-1.11478 1.368777,-1.36877 0.931332,0.94544 c 0.05645,0.0564 0.141111,0.0988 0.225778,0.0988 h 2.285998 c 0.08467,0 0.169333,-0.0423 0.225778,-0.0988 l 0.620888,-0.62089 c 0.05644,-0.0564 0.09878,-0.14111 0.09878,-0.22578 v -0.32455 c 0,-0.15522 -0.09878,-0.28222 -0.239889,-0.31045 l -4.148663,-1.15711 c -0.479778,-0.127 -0.889,-0.42333 -1.185333,-0.80433 -0.296333,-0.39511 -0.451555,-0.87489 -0.451555,-1.35466 v -0.59267 c 0,-0.42333 0.155222,-0.83256 0.465666,-1.143 l 0.987777,-0.98778 c 0.296333,-0.29633 0.705555,-0.46566 1.128888,-0.46566 h 2.82222 c 0.423333,0 0.832555,0.16933 1.128888,0.46566 l 1.128888,1.12889 -1.368776,1.35467 -0.931333,-0.93134 c -0.05644,-0.0705 -0.141111,-0.0988 -0.225778,-0.0988 h -2.285998 c -0.08467,0 -0.169333,0.0282 -0.225777,0.0988 l -0.620889,0.60678 c -0.05644,0.0706 -0.08467,0.14111 -0.08467,0.22578 v 0.33867 c 0,0.14111 0.08467,0.26811 0.225777,0.31044 l 4.148664,1.15711 c 0.479777,0.127 0.888999,0.40922 1.185332,0.80433 0.296333,0.381 0.465666,0.86078 0.465666,1.35467 v 0.59266 c 0,0.42334 -0.169333,0.83256 -0.479777,1.12889 l -0.987777,0.98778 c -0.296333,0.31044 -0.705555,0.47978 -1.128888,0.47978 z m 9.129859,-10.033 h -2.243665 c -0.423333,0 -0.832555,0.16934 -1.142999,0.47978 l -0.987777,0.98778 c -0.296333,0.29633 -0.465666,0.70555 -0.465666,1.12889 v 4.82599 c 0,0.42334 0.169333,0.83256 0.465666,1.12889 l 0.987777,1.00189 c 0.296333,0.31044 0.719666,0.46567 1.142999,0.46567 h 2.243665 c 0.423333,0 0.832555,-0.16934 1.128888,-0.46567 l 1.001888,-1.00189 c 0.296333,-0.29633 0.465667,-0.70555 0.465667,-1.12889 v -4.82599 c 0,-0.42334 -0.169334,-0.83256 -0.465667,-1.12889 l -1.001888,-0.98778 c -0.310444,-0.29633 -0.705555,-0.47978 -1.128888,-0.47978 z m 0.578555,7.39422 -0.606777,0.60678 c -0.07055,0.0705 -0.155222,0.0988 -0.239889,0.0988 h -1.721554 c -0.08467,0 -0.155222,-0.0282 -0.225777,-0.0988 l -0.606778,-0.60678 c -0.07055,-0.0705 -0.09878,-0.14111 -0.09878,-0.22578 v -4.30388 c 0,-0.0847 0.02822,-0.16934 0.09878,-0.22578 l 0.606778,-0.62089 c 0.07055,-0.0564 0.141111,-0.0988 0.225777,-0.0988 H 73.2699 c 0.08467,0 0.169334,0.0423 0.239889,0.0988 l 0.606777,0.62089 c 0.04233,0.0706 0.09878,0.14111 0.09878,0.22578 v 4.30388 c 0,0.0847 -0.04233,0.15523 -0.09878,0.22578 z"
        id="text52559-6-0-1-7-0-1-9-5-9-7-6-4-5-2-0"
-       inkscape:export-filename="/home/v.hofmann/WORKING/Logos/DirSchema_Logo_Text.png"
-       inkscape:export-xdpi="263.92001"
-       inkscape:export-ydpi="263.92001"><tspan
-         sodipodi:role="line"
-         id="tspan52557-2-8-9-7-9-9-7-4-8-2-3-0-7-1-4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Hermann;-inkscape-font-specification:'Hermann, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#002864;fill-opacity:1;stroke-width:0.249064"
-         x="58.213379"
-         y="224.54897">SO</tspan></text>
+       aria-label="SO" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -117,20 +99,11 @@
          style="stroke-width:0.264583"
          x="-372.44165"
          y="388.89365" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1025px;line-height:1.25;font-family:Hermann;-inkscape-font-specification:'Hermann, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#002864;fill-opacity:1;stroke:none;stroke-width:0.249064"
-       x="95.255081"
-       y="224.54897"
+    <path
+       style="font-size:14.1111px;line-height:1.25;font-family:Hermann;-inkscape-font-specification:'Hermann, Normal';fill:#002864;stroke-width:0.249064"
+       d="m 101.44985,224.56308 h -2.822216 c -0.423333,0 -0.818444,-0.16934 -1.128888,-0.47978 l -1.128888,-1.11478 1.368777,-1.36877 0.931332,0.94544 c 0.05644,0.0564 0.141111,0.0988 0.225778,0.0988 h 2.285995 c 0.0847,0 0.16934,-0.0423 0.22578,-0.0988 l 0.62089,-0.62089 c 0.0564,-0.0564 0.0988,-0.14111 0.0988,-0.22578 v -0.32455 c 0,-0.15522 -0.0988,-0.28222 -0.23989,-0.31045 l -4.148665,-1.15711 c -0.479778,-0.127 -0.889,-0.42333 -1.185333,-0.80433 -0.296333,-0.39511 -0.451555,-0.87489 -0.451555,-1.35466 v -0.59267 c 0,-0.42333 0.155222,-0.83256 0.465666,-1.143 l 0.987778,-0.98778 c 0.296333,-0.29633 0.705555,-0.46566 1.128888,-0.46566 h 2.822221 c 0.42333,0 0.83255,0.16933 1.12889,0.46566 l 1.12888,1.12889 -1.36877,1.35467 -0.93133,-0.93134 c -0.0564,-0.0705 -0.14112,-0.0988 -0.22578,-0.0988 h -2.286001 c -0.08467,0 -0.169333,0.0282 -0.225777,0.0988 l -0.620889,0.60678 c -0.05644,0.0706 -0.08467,0.14111 -0.08467,0.22578 v 0.33867 c 0,0.14111 0.08467,0.26811 0.225777,0.31044 l 4.148666,1.15711 c 0.47978,0.127 0.889,0.40922 1.18533,0.80433 0.29633,0.381 0.46567,0.86078 0.46567,1.35467 v 0.59266 c 0,0.42334 -0.16934,0.83256 -0.47978,1.12889 l -0.98778,0.98778 c -0.29633,0.31044 -0.70555,0.47978 -1.12889,0.47978 z m 7.3942,-6.40644 2.10255,-3.61244 h 2.21544 l -3.35844,5.78555 v 4.21922 h -1.91911 v -4.21922 l -3.34433,-5.78555 h 2.21544 z"
        id="text473"
-       inkscape:export-filename="/home/v.hofmann/WORKING/Logos/DirSchema_Logo_Text.png"
-       inkscape:export-xdpi="263.92001"
-       inkscape:export-ydpi="263.92001"><tspan
-         sodipodi:role="line"
-         id="tspan471"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Hermann;-inkscape-font-specification:'Hermann, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#002864;fill-opacity:1;stroke-width:0.249064"
-         x="95.255081"
-         y="224.54897">Sy</tspan></text>
+       aria-label="Sy" />
     <g
        id="g941"
        style="fill:none;stroke:#ffc8ff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
